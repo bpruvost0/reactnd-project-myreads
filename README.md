@@ -1,3 +1,6 @@
+[![bpruvost0](https://circleci.com/gh/bpruvost0/reactnd-project-myreads.svg?style=shield)](https://circleci.com/gh/bpruvost0/reactnd-project-myreads)
+
+
 # MyReads Project
 
 This is Belén Pruvost's assessment project for the React Fundamentals module, included in Udacity's React Fundamentals course.
